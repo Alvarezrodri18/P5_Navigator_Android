@@ -65,10 +65,10 @@ class MiCasaState extends State<MiCasa> with SingleTickerProviderStateMixin {
               icon: Icon(Icons.favorite),
             ),
             Tab(
-              icon: Icon(Icons.adb),
+              icon: Icon(Icons.camera),
             ),
             Tab(
-              icon: Icon(Icons.airport_shuttle),
+              icon: Icon(Icons.view_agenda),
             ),
           ],
           // setup the controller

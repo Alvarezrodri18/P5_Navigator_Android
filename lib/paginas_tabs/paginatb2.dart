@@ -17,7 +17,7 @@ class SecondTab extends StatelessWidget {
                 color: Colors.white,
               ),
               Text(
-                "Android",
+                "Camara",
                 style: TextStyle(color: Colors.white),
               )
             ],
