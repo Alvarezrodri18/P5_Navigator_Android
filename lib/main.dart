@@ -62,7 +62,7 @@ class MiCasaState extends State<MiCasa> with SingleTickerProviderStateMixin {
           tabs: <Tab>[
             Tab(
               // set icon to the tab
-              icon: Icon(Icons.favorite),
+              icon: Icon(Icons.star),
             ),
             Tab(
               icon: Icon(Icons.camera),

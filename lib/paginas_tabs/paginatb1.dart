@@ -12,7 +12,7 @@ class FirstTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.favorite,
+                Icons.star,
                 size: 160.0,
                 color: Colors.white,
               ),
