@@ -12,12 +12,12 @@ class ThirdTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.airport_shuttle,
+                Icons.view_agenda,
                 size: 160.0,
                 color: Colors.white,
               ),
               Text(
-                "Tercer Tab Alvarez",
+                "Agenda Alvarez",
                 style: TextStyle(color: Colors.white),
               )
             ],

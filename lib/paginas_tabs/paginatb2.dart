@@ -12,7 +12,7 @@ class SecondTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.adb,
+                Icons.camera,
                 size: 160.0,
                 color: Colors.white,
               ),
